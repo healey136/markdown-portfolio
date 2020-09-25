@@ -1,0 +1,2 @@
+- [x] Create list
+- [x] Looks at stocks
